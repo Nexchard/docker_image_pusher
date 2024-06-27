@@ -1,6 +1,30 @@
 nginx
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
+kasmweb/nginx:1.25.3
 xhofe/alist:latest
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+--platform=linux/arm64 xiaoyaliu/alist:latest
+--platform=linux/amd64 xiaoyaliu/alist:latest
+--platform=linux/arm/v7 xiaoyaliu/alist:latest
+amilys/embyserver:4.8.0.56
+xiaoyaliu/alist:latest
+justsong/one-api:latest
+linuxserver/heimdall:latest
+linuxserver/resilio-sync:latest
+yidadaa/chatgpt-next-web:latest
+zhayujie/chatgpt-on-wechat:latest
+snowdreamtech/frpc:latest
+xiaoyaliu/glue:latest
+containrrr/watchtower:latest
+messense/aliyundrive-webdav:latest
+alpine:3.18.2
+dockerproxy.com/library/alpine:3.18.2
+wcjiang/linux-command:latest
+wcjiang/reference:latest
+herberthe0229/iptv-sources:latest
+6053537/portainer-ce:latest
+louislam/uptime-kuma:1.23.1
+mereith/van-blog:latest
+tuomasi502/excalidraw-cn-excalidraw:latest
+portainer/agent:2.16.2
+mongo:4.4.16
+keyurbhole/flutter_web_desk:v1.0.0
+vaultwarden/server:latest
