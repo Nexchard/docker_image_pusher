@@ -15,8 +15,7 @@ snowdreamtech/frpc:latest
 xiaoyaliu/glue:latest
 containrrr/watchtower:latest
 messense/aliyundrive-webdav:latest
-alpine:3.18.2
-dockerproxy.com/library/alpine:3.18.2
+library/alpine:3.18.2
 wcjiang/linux-command:latest
 wcjiang/reference:latest
 herberthe0229/iptv-sources:latest
