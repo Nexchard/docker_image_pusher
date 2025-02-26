@@ -29,3 +29,7 @@ keyurbhole/flutter_web_desk:v1.0.0
 vaultwarden/server:latest
 rustdesk/rustdesk-server:latest
 lejianwen/rustdesk-api
+postgres:16-alpine
+minio/minio:latest
+ghcr.io/browserless/chromium:v2.18.0
+amruthpillai/reactive-resume:latest
